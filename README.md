@@ -1,6 +1,6 @@
 # Micro WebServer pilotage StepperMotor
 
-Ce projet concerne la motorisation du [planétaire mécanique](https://papsdroidfr.github.io/configuration/pico/)
+Ce projet concerne la motorisation du [planétaire mécanique](https://papsdroidfr.github.io/tutoriels/soleil-terre-lune/)
 
 ## Hardware
 
