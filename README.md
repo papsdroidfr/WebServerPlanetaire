@@ -5,7 +5,7 @@ Ce projet concerne la motorisation du [planétaire mécanique](https://papsdroid
 ## Hardware
 
 ### schéma
-![fritzing](_doc/fritzing_serverWeb.png)
+![fritzing](_doc//fritzing_serverWeb.png)
 Attention à bien respecter le câblage, sinon le moteur ne va pas fonctionner correctement.
 
 ### matériel nécessaire
