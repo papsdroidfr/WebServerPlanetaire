@@ -23,7 +23,11 @@ Attention à bien respecter le câblage, sinon le moteur ne va pas fonctionner c
 - _Optionnel_: Un PCB à faire imprimer, vous retrouverez les fichiers GERBER zipé dans le dossier **/PCB**
 - _Optionnel_: Un boitier imprimé 3D, le STL est dans le dosseir **/STL**
 
+Assemblage PCB
 ![PCB](_doc//IMG_webserver_640.jpg)
+
+Assemblage dans le boîtier 3D
+![PCB](_doc//IMG_webserver_montage_640.jpg)
 
 ## Software 
 
