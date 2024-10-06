@@ -21,12 +21,14 @@ Attention à bien respecter le câblage, sinon le moteur ne va pas fonctionner c
 - 4 câbles dupont mâle-mâle (20cm) pour relier les sorties du driver L298N au moteur
 - une alimentation DC 5V - 2A
 - _Optionnel_: Un PCB à faire imprimer, vous retrouverez les fichiers GERBER zipé dans le dossier **/PCB**
-- _Optionnel_: Un boitier imprimé 3D, le STL est dans le dosseir **/STL**
+- _Optionnel_: Un boitier imprimé 3D, le STL est dans le dossier **/STL**
 
-Assemblage PCB
+**Assemblage PCB**
+
 ![PCB](_doc//IMG_webserver_640.jpg)
 
-Assemblage dans le boîtier 3D
+**Assemblage dans le boîtier 3D**
+
 ![PCB](_doc//IMG_webserver_montage_640.jpg)
 
 ## Software 
@@ -37,7 +39,7 @@ Assemblage dans le boîtier 3D
 
 ## Usage
 
-- Lors du démarrage du raspberry pico, l'écran OLED affiche un logo du WIFI qui clignote le temps que la connexion WIFI se fasse.
+- Lors du démarrage du raspberry pico, l'écran OLED affiche un logo du WIFI qui clignote le temps que la connexion WIFI se fasse. Si la connexion ne s'établi pas, vérifiez bien les paramétres WIFI_SSID et WIFI_PASSWORD du fichier web/config.py.
 - Lorsque la connection wifi est établie, le serveur WEB démarre: l'écran OLED affiche l'adresse locale du serveur http://xxxx.xx.xx.xx
 - Connectez-vous à cette adresse depuis votre smartphone en utilisant le même réseau wifi.
 
